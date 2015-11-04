@@ -1,0 +1,4 @@
+print """ i am sindhu
+i am 23
+i work for indeed
+i live in hyd"""
